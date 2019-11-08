@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resource/Images/Ascending.png</file>
+        <file>Resource/Images/bos.png</file>
+        <file>Resource/Images/cancel.png</file>
+        <file>Resource/Images/clear.png</file>
+        <file>Resource/Images/count.png</file>
+        <file>Resource/Images/csv.png</file>
+        <file>Resource/Images/descending.png</file>
+        <file>Resource/Images/dolu.png</file>
+        <file>Resource/Images/filter.png</file>
+        <file>Resource/Images/filter2.png</file>
+        <file>Resource/Images/footer.png</file>
+        <file>Resource/Images/htm.png</file>
+        <file>Resource/Images/ok.png</file>
+        <file>Resource/Images/pdf.png</file>
+        <file>Resource/Images/save.png</file>
+        <file>Resource/Images/save2.png</file>
+        <file>Resource/Images/sigdir.png</file>
+        <file>Resource/Images/stretch.png</file>
+        <file>Resource/Images/stretchall.png</file>
+        <file>Resource/Images/sum.png</file>
+        <file>Resource/Images/xls.png</file>
+        <file>Resource/Images/xml.png</file>
+        <file>Resource/Images/printer.png</file>
+        <file>Resource/Images/word.png</file>
+    </qresource>
+</RCC>
