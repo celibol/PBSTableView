@@ -13,7 +13,7 @@ QTableView with many extension
 > 9. Column Alignment
 > 10. Column Formatting
 > 11. Default Editor
-> 12. Export Table (xlx, xml, Excel Xmli Word Xml, CSV, PDF,Text)
+> 12. Export Table (xls, xml, Excel Xmli Word Xml, CSV, PDF,Text)
 > 13. Print Table
 > 14. Load/Save State
 > 15. Filter Box
