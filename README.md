@@ -23,15 +23,20 @@ QTableView with many extension
 
 And Many Extension
 
-
+# Default Editor
 ![](https://github.com/celibol/PBSTableView/blob/master/ScreenShots/scrennshot1.png)
 
+# Header Menu
 ![](https://github.com/celibol/PBSTableView/blob/master/ScreenShots/scrennshot2.png)
 
+# Footer Menu
 ![](https://github.com/celibol/PBSTableView/blob/master/ScreenShots/scrennshot3.png)
 
+# Table Print Preview
 ![](https://github.com/celibol/PBSTableView/blob/master/ScreenShots/scrennshot4.png)
 
+# Filter Box
 ![](https://github.com/celibol/PBSTableView/blob/master/ScreenShots/scrennshot5.png)
 
+# Quick Customize
 ![](https://github.com/celibol/PBSTableView/blob/master/ScreenShots/scrennshot6.png)
