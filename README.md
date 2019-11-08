@@ -8,8 +8,8 @@ QTableView with many extension
 > 4. Enable/Disable Sort
 > 5. Auto Edit
 > 6. Quick Customize
-> 7. Add New Row
-> 8. Delete Row
+> 7. Add New Row (Down Key Presses On Last Row if not have new row)
+> 8. Delete Row (Ctrl+Del)
 > 9. Column Alignment
 > 10. Column Formatting
 > 11. Default Editor
@@ -20,8 +20,9 @@ QTableView with many extension
 > 16. ReadOnly Columns
 > 17. Focused Columns
 > 18. Move Column
-
-And Many Extension
+> 19. Footer Vaue (None, Sum, Min, Max, Average)
+> 20. Goto Next Col On Enter Key
+> 21. Goto Next First Column on Enter Press On Last Col
 
 # Default Editor
 ![](https://github.com/celibol/PBSTableView/blob/master/ScreenShots/scrennshot1.png)
